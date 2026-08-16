@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-8d38nc.indocuan-pro.site/sitemap.xml
